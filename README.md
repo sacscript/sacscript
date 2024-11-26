@@ -6,7 +6,7 @@ Bio:
 ---------------
 Name        : sachini
 Location    : Sweden
-Occupation  : iOS Developer / Game Developer
+Occupation  : iOS Game Developer
 Languages   : Swift, C#
 Technologies: SpriteKit, SceneKit, ARKit, Unity, Xcode, Git
 
